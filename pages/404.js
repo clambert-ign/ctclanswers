@@ -10,7 +10,7 @@ const FourOhFour = () => {
         <div style={{padding: "5% 0"}}>
             <PageSection
                 headingText="404"
-                headingTag="h4"
+                headingTag="h3"
                 subText={t('error404')}
                 align="center"
             />
